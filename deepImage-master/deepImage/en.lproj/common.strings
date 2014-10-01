@@ -1,0 +1,23 @@
+/* 
+  common.strings
+  deepImage
+
+  Created by Yihhann on 13/6/16.
+  Copyright (c) 2013 Yihhann. All rights reserved.
+*/
+
+/* Product name */
+"Deep Image" = "Deep Image";
+
+/* Messages */
+"Pick the matched pictures..." = "Pick the matched pictures...";
+"Well Done!" = "Well Done!";
+"You are so amazing!" = "You are so amazing!";
+
+/* Countdown voice file name */
+"count0" = "count0";
+"count1" = "count1";
+"count2" = "count2";
+"count3" = "count3";
+"count4" = "count4";
+"count5" = "count5";
